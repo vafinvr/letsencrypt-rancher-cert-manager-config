@@ -6,7 +6,7 @@ spec:
   acme:
     server: https://acme-v02.api.letsencrypt.org/directory
     # CHANGE_YOUR_EMAIL_HERE
-    email: joao-verissimo@hotmail.com
+    email: sfera.net3000@gmail.com
     privateKeySecretRef:
       name: letsencrypt-prod
     http01: {}
